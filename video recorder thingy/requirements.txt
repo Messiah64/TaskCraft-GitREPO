@@ -1,0 +1,3 @@
+streamlit==1.28.0
+streamlit_extras==0.3.5
+#pip install audio_recorder_streamlit
